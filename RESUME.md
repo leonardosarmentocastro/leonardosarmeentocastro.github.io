@@ -1,7 +1,8 @@
 
 # Leonardo Sarmento de Castro
 
-**Front-End and Full-Stack Senior Software Developer Consultant**
+**FRONT-END AND FULL-STACK**
+**SENIOR SOFTWARE DEVELOPER CONSULTANT**
 
 I am a strongly committed and self-taught professional who has been engaged in software development for 14 years, working in various business niches worldwide.
 
